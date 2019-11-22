@@ -3,6 +3,18 @@
     font-weight: 300;
 }
 
+a.btnContacto{
+    background: #f5b400;
+    padding: 10px 25px;
+    border: none;
+    position: fixed;
+    top: 100px;
+    z-index: 1000;
+    color: #fefefe;
+    border-radius: 0 .35rem .35rem 0;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, .5);
+}
+
 .slider__item {
     height: 500px;
     width: 100%;
